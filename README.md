@@ -1,5 +1,6 @@
-<img src="gitsito.png" alt="GitHub Banner" width="100%" />
+<!--<img src="gitsito.png" alt="GitHub Banner" width="100%" />-->
 # 💫 About Me:
+
 🐱‍👤 A passionate developer<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 # 💻 Technologies i've used:
