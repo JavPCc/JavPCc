@@ -36,11 +36,11 @@
 
 <br clear="both">
 
-<img align="right" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXp3Zngwem9idTV5MXFkcTFrenN2ZGd0NHlpb2EwcXRxMnd4NDhtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K7hXhhPZg2z7soXlQI/giphy.gif"  />
+<img style ="background-color: red" align="right" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXp3Zngwem9idTV5MXFkcTFrenN2ZGd0NHlpb2EwcXRxMnd4NDhtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K7hXhhPZg2z7soXlQI/giphy.gif"  />
 
 ###
 
-<h6 align="left">🐱‍👤 A passionate developer<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact</h6>
+<h4 align="left">🐱‍👤 A passionate developer<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact</h4>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<div align="left">
+<div align="left"">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
