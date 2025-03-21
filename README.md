@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<hr><strong>Techs & Tools:</strong>
+<hr><strong>Techs & Tools i've used:</strong>
 
 ###
 
