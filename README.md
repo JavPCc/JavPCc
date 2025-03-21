@@ -29,14 +29,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=JavPCc&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <h2 align="left">💫 About me:</h2>
 
 
 <br clear="both">
 
-<img style ="background-color: red" align="right" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXp3Zngwem9idTV5MXFkcTFrenN2ZGd0NHlpb2EwcXRxMnd4NDhtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K7hXhhPZg2z7soXlQI/giphy.gif"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXp3Zngwem9idTV5MXFkcTFrenN2ZGd0NHlpb2EwcXRxMnd4NDhtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K7hXhhPZg2z7soXlQI/giphy.gif"  />
 
 ###
 
@@ -141,9 +139,13 @@
 
 ###
 <div align = "center">
-<img src="https://raw.githubusercontent.com/JavPCc/JavPCc/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JavPCc/JavPCc/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JavPCc/JavPCc/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JavPCc/JavPCc/output/github-snake.svg" />
+</picture>
 <hr>
 <h3>✍️ Words is All You Need</h3>
 <p><img src="https://quotes-github-readme.vercel.app/api?type=vetical&amp;theme=radical" alt=""></p>
 </div>
-
+</img>
